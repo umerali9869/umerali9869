@@ -30,15 +30,4 @@ I love building scalable cloud solutions, automating workflows, and bringing ide
 - 🌐 **Cloud-native architectures**  
 - 🤖 **Automation & DevOps practices**  
 - 🔒 **Cloud Security & Best Practices**  
-- 📈 **Continuous Learning & Open Source**  
-
----
-
-## 📫 Let's Connect  
-- 💼 
-)   
-- 📧 Email: 
-
----
-
-⭐ **"Code. Automate. Deploy. Repeat."** ⭐  
+- 📈 **Continuous Learning & Open Source** 
